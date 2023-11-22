@@ -4,4 +4,9 @@ Comanda 7:      git checkout branca00
 Comanda 10b:    git merge branca00
 Comanda 12:     git push
 Comanda 14a:    git push origin branca01
-comanda 12c:    git log main
+
+
+Resposta 6:   Des de la branca main no es veu, ja que l'últim commit l'he fet a la branca "branca00".
+Resposta 7:   Sí puc, perquè aquí és on he posat el commit.
+Resposta 12c: La raó per la qual només es veuen els canvis a la branca "main" és perquè la fusió s'ha realitzat a aquesta branca.
+Resposta 14c: La branca "branca00" està a 1 commit de distància (commit ahead) de la branca "main".
