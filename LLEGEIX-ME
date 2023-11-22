@@ -1,0 +1,7 @@
+Comanda 1:      git branch branca00
+Comanda 5:      git checkout main
+Comanda 7:      git checkout branca00
+Comanda 10b:    git merge branca00
+Comanda 12:     git push
+Comanda 14a:    git push origin branca01
+comanda 12c:    git log main
